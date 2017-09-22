@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="PNetReplayer" 
-        revision="6.8.162" 
+        revision="6.8.164" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/PNetReplayer-6.8.162"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/PNetReplayer-6.8.164"
         rapidprom:desc="Petri Net Replayer"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
