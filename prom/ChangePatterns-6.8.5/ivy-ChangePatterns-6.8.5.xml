@@ -15,7 +15,7 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104" />
-        <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.7.154" />
+        <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.8.177" />
 		<dependency org="org.rapidprom" name="PTAndLogGenerator" rev="6.8.163" />
 		<dependency org="org.rapidprom" name="Widgets" rev="6.7.224" />
     </dependencies>
