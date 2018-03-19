@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="PetriNetSimulator" 
-        revision="6.8.24" 
+        revision="6.8.27" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/PetriNetSimulator-6.8.24"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/PetriNetSimulator-6.8.27"
         rapidprom:desc="Petri Net Simulator"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
@@ -20,5 +20,6 @@
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.224"   />
 		<dependency org="org.rapidprom" name="Woflan" rev="6.7.59"   />
 		<dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
+		<dependency org="org.rapidprom" name="ChangePatterns" rev="6.8.10"   />
     </dependencies>
 </ivy-module>
