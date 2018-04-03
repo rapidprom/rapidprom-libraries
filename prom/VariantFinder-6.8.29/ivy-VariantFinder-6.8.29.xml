@@ -22,7 +22,6 @@
 		<dependency org="org.rapidprom" name="Weka" rev="6.7.25"  />
 		<dependency org="org.rapidprom" name="DataDiscovery" rev="6.7.96"  />
 		<dependency org="org.rapidprom" name="ProcessComparator" rev="6.7.95"  />
-		<dependency org="org.rapidprom.thirdparty.lib" name="prodrift" rev="2.4" />
 		<dependency org="org.rapidprom.thirdparty.lib" name="REngine" rev="2.1.0" />
 		<dependency org="org.rapidprom.thirdparty.lib" name="Rserve" rev="1.8.1" />
     </dependencies>
