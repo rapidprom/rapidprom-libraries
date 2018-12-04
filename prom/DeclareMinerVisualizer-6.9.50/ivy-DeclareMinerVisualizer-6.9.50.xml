@@ -1,7 +1,7 @@
 <ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
     <info 
         organisation="org.rapidprom" 
-        module="DeclareVisualizer" 
+        module="DeclareMinerVisualizer" 
         revision="6.9.50" 
         rapidprom:os="all" 
         rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DeclareMinerVisualizer-6.9.50"
