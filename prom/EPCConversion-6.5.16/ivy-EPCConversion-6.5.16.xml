@@ -16,6 +16,6 @@
     <dependencies>
         <dependency org="org.rapidprom" name="EPC" rev="6.5.34" />
         <dependency org="org.rapidprom" name="Murata" rev="6.5.54" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.9.139" />
     </dependencies>
 </ivy-module>

@@ -19,7 +19,7 @@
 		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.8.120" />
         <dependency org="org.rapidprom" name="GuideTreeMiner" rev="6.5.18"   />
         <dependency org="org.rapidprom" name="Log" rev="6.9.380"   />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.9.139"   />
         <dependency org="org.rapidprom" name="PNetReplayer" rev="6.8.164"   />
         <dependency org="org.rapidprom" name="TraceAlignmentWithGuideTree" rev="6.5.32"   />
         <dependency org="org.rapidprom" name="Weka" rev="6.7.25"   />
