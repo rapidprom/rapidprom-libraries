@@ -1,0 +1,24 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="GraphViz" 
+        revision="6.9.256" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/GraphViz-6.9.256"
+        rapidprom:desc="Graph Viz"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL"
+        rapidprom:author="S.J.J. Leemans" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"    
+    />
+    <dependencies>
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.109" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.224" />
+		<dependency org="org.rapidprom" name="KitFox" rev="6.9.6" />
+        <dependency org="org.rapidprom.thirdparty.resource" name="dot" rev="na-2" conf="*" />
+        <dependency org="org.rapidprom.thirdparty.lib" name="grappa" rev="na-2" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="itextpdf" rev="5.5.11" conf="*" />
+     </dependencies>
+</ivy-module>

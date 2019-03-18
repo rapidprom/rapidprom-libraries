@@ -1,0 +1,4 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom.thirdparty.lib" module="reflections" revision="0.9.11">
+    </info>
+</ivy-module>

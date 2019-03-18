@@ -17,7 +17,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.109"   />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
-		<dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"   />
+		<dependency org="org.rapidprom" name="GraphViz" rev="6.9.256"   />
         <dependency org="org.rapidprom" name="Log" rev="6.9.380"   />
 		<dependency org="com.github.stephenc.high-scale-lib" name="high-scale-lib" rev="1.1.4" conf="*"/>
     	<dependency org="eu.danieldk.dictomaton" name="dictomaton" rev="1.2.1" conf="*"/>
