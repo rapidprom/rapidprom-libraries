@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="Uma" 
-        revision="6.5.46" 
+        revision="6.9.96" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/Uma-6.5.46"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/Uma-6.9.96"
         rapidprom:desc="Uma"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
@@ -20,7 +20,7 @@
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"   />
 		<dependency org="org.rapidprom" name="Animation" rev="6.5.50"   />
 		<dependency org="org.rapidprom" name="Widgets" rev="6.7.224"   />
-		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.8.164"   />
+		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.9.179"   />
 		<dependency org="org.rapidprom" name="OSService" rev="6.5.19"   />
 		<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.3" />
 		<dependency org="org.rapidprom" name="LogDialog" rev="6.5.42"   />
@@ -31,6 +31,7 @@
 		<dependency org="org.rapidprom" name="InteractiveVisualization" rev="6.5.33"   />
 		<dependency org="org.rapidprom.thirdparty.lib" name="pnapi-java" rev="na-2" conf="*" />
         <dependency org="org.antlr" name="antlr-runtime" rev="3.2" conf="*" />
-		<dependency org="org.rapidprom.thirdparty.lib" name="uma" rev="na-2" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="uma" rev="1.3.2" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="pnapi-java" rev="1.0.5" conf="*" />
     </dependencies>
 </ivy-module>
