@@ -19,7 +19,7 @@
 		<dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
 		<dependency org="org.rapidprom" name="BPMNMiner" rev="6.7.69"   />
 		<dependency org="org.rapidprom" name="CNet" rev="6.7.161"	/>
-		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.8.120"   />
+		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.9.126"   />
 		<dependency org="org.rapidprom" name="ETConformance" rev="6.5.15"   />
 		<dependency org="org.rapidprom" name="HeuristicsMiner" rev="6.5.49"   />
 		<dependency org="org.rapidprom" name="ILPMiner" rev="6.5.24"   />
