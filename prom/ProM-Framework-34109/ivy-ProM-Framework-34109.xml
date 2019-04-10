@@ -29,7 +29,6 @@
         <artifact name="jung-graph-impl-2.0" type="jar" conf="*" />
         <artifact name="jung-io-2.0" type="jar" conf="*" />
         <artifact name="jung-visualization-2.0" type="jar" conf="*" />
-        <artifact name="junit-4.8.1" type="jar" conf="*" />
         <artifact name="openide-lookup-1.9-patched-1.0" type="jar" conf="*" />
         <artifact name="simmetrics-latest" type="jar" conf="*" />
         <artifact name="slickerbox-1.0rc1" type="jar" conf="*" />
@@ -40,4 +39,7 @@
         <artifact name="xpp3-1.1.4c" type="jar" conf="*" />
         <artifact name="xstream-1.3.1" type="jar" conf="*" />
     </publications>
+	<dependencies>
+		<dependency org="org.rapidprom.thirdparty.lib" name="junit" rev="4.8.1" conf="*" />
+    </dependencies>
 </ivy-module>
