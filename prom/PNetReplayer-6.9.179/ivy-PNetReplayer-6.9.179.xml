@@ -21,7 +21,7 @@
         <dependency org="org.rapidprom" name="LogDialog" rev="6.5.42"   />
         <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.3" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.9.139"   />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.224"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.9.234"   />
         <dependency org="org.rapidprom.thirdparty.resource" name="sara" rev="na-2" conf="*" />
     </dependencies>
 </ivy-module>

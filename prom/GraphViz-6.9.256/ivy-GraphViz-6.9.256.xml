@@ -15,7 +15,7 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.109" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.224" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.9.234" />
 		<dependency org="org.rapidprom" name="KitFox" rev="6.9.6" />
         <dependency org="org.rapidprom.thirdparty.resource" name="dot" rev="na-2" conf="*" />
         <dependency org="org.rapidprom.thirdparty.lib" name="grappa" rev="na-2" conf="*" />

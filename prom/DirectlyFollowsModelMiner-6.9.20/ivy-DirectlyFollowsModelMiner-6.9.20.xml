@@ -16,7 +16,7 @@
     <dependencies>
 	    <dependency org="org.rapidprom" name="ProM-Framework" rev="34109"   />
 		<dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
-		<dependency org="org.rapidprom" name="Widgets" rev="6.7.224" />
+		<dependency org="org.rapidprom" name="Widgets" rev="6.9.234" />
 		<dependency org="org.rapidprom" name="InductiveMiner" rev="6.9.503" />
 		<dependency org="org.reflections" name="reflections" rev="0.9.10" conf="*" />
 		<dependency org="org.rapidprom.thirdparty.lib" name="opencsv" rev="2.4-patched" conf="*" />

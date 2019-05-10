@@ -23,7 +23,7 @@
 		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.9.126"   />
 		<dependency org="org.rapidprom" name="LPEngine" rev="6.7.80"   />
 		<dependency org="org.rapidprom" name="ILPMiner" rev="6.5.24"   />
-		<dependency org="org.rapidprom" name="Widgets" rev="6.7.224" />
+		<dependency org="org.rapidprom" name="Widgets" rev="6.9.234" />
 		<dependency org="org.rapidprom.thirdparty.lib" name="pnapi-java" rev="1.0.5" conf="*" />
         <dependency org="org.antlr" name="antlr-runtime" rev="3.2" conf="*" />
 		<dependency org="org.rapidprom.thirdparty.lib" name="junit" rev="4.8.1" conf="*" />

@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="Widgets" 
-        revision="6.7.224" 
+        revision="6.9.234" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/Widgets-6.7.224"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/Widgets-6.9.234"
         rapidprom:desc="Generic Widgets"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
@@ -15,6 +15,7 @@
     
     />
     <dependencies>
+	<dependency org="org.rapidprom" name="ProM-Framework" rev="34109"   />
         <dependency org="org.rapidprom.thirdparty.lib" name="japura" rev="1.12.3" conf="*"/>
 		<dependency org="org.rapidprom.thirdparty.lib" name="freehep-graphicsio" rev="2.4" conf="*">
 			<exclude org="junit" module="junit" />

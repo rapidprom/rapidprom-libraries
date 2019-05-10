@@ -17,7 +17,7 @@
     <dependencies>
 		<dependency org="org.rapidprom" name="Log" rev="6.9.380"  />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"  />      
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.224"  />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.9.234"  />
 		<dependency org="org.rapidprom" name="TransitionSystems" rev="6.7.71"  />
 		<dependency org="org.rapidprom" name="Weka" rev="6.7.25"  />
 		<dependency org="org.rapidprom" name="DataDiscovery" rev="6.7.96"  />
