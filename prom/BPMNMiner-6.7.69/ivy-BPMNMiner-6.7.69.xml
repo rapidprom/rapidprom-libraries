@@ -18,7 +18,7 @@
 		<dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.109"   />
 		<dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
 		<dependency org="org.rapidprom" name="BPMN" rev="6.5.56"   />
-		<dependency org="org.rapidprom" name="HeuristicsMiner" rev="6.5.49"   />
+		<dependency org="org.rapidprom" name="HeuristicsMiner" rev="6.9.75"   />
 		<dependency org="org.rapidprom" name="ILPMiner" rev="6.5.24"   />
 		<dependency org="org.rapidprom" name="InductiveMiner" rev="6.9.503"   />
 		<dependency org="org.rapidprom" name="GraphViz" rev="6.9.256"	/>
