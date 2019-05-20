@@ -16,7 +16,7 @@
     <dependencies>
 	    <dependency org="org.rapidprom" name="ProM-Framework" rev="34109"   />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.9.126" />
-        <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.7.154" />
+        <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.9.180" />
 		<dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.7.125"   />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.9.256" />
         <dependency org="org.rapidprom" name="InductiveMiner" rev="6.9.503" />
