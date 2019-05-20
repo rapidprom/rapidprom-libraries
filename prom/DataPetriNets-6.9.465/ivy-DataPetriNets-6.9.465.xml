@@ -1,0 +1,22 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="DataPetriNets" 
+        revision="6.9.465" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataPetriNets-6.9.465"
+        rapidprom:desc="DataPetriNets"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL" 
+        rapidprom:author="Massimiliano de Leoni" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    
+    />
+    <dependencies>
+	    <dependency org="org.rapidprom" name="ProM-Framework" rev="34109"   />
+		<dependency org="org.rapidprom" name="DataPetriNetsLGPL" rev="6.9.1"   />
+		<dependency org="org.rapidprom" name="Weka" rev="6.9.28"   />
+    </dependencies>
+</ivy-module>

@@ -16,7 +16,7 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="Log" rev="6.9.380"   />
-		<dependency org="com.googlecode.matrix-toolkits-java" name="mtj" rev="1.0.2" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="mtj" rev="1.0.2" conf="*" />
 		<dependency org="joda-time" name="joda-time" rev="2.9.3" conf="*" />
     </dependencies>
 </ivy-module>

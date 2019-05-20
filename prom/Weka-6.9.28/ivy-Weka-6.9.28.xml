@@ -1,0 +1,31 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="Weka" 
+        revision="6.9.28" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/Weka-6.9.28"
+        rapidprom:desc="Weka"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL" 
+        rapidprom:author="Massimiliano de Leoni" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    
+    />
+    <dependencies>
+	    <dependency org="org.rapidprom" name="ProM-Framework" rev="34109"   />
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
+        <dependency org="org.rapidprom" name="Log" rev="6.9.380"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.9.139"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.9.234"   />
+		<dependency org="nz.ac.waikato.cms.weka" name="weka-stable" rev="3.8.0" conf="*" />
+       <dependency org="nz.ac.waikato.cms.weka" name="simpleEducationalLearningSchemes" rev="1.0.2" conf="*">
+       		<exclude org="nz.ac.waikato.cms.weka" name="weka-dev" /> <!-- We don't want the weka-dev dependency -->
+       </dependency>
+       <dependency org="nz.ac.waikato.cms.weka" name="optics_dbScan" rev="1.0.4" conf="*">
+       		<exclude org="nz.ac.waikato.cms.weka" name="weka-dev" /> <!-- We don't want the weka-dev dependency -->
+       </dependency>
+    </dependencies>
+</ivy-module>

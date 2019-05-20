@@ -17,7 +17,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.109"   />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
-        <dependency org="org.rapidprom" name="DataPetriNets" rev="6.7.435"   />
+        <dependency org="org.rapidprom" name="DataPetriNets" rev="6.9.465"   />
         <dependency org="org.rapidprom" name="Log" rev="6.9.380"   />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.9.139"   />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.9.126"   />
@@ -25,7 +25,7 @@
 	<dependency org="org.rapidprom" name="CNet" rev="6.7.161" />  
         <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.7.60"   />
 	<dependency org="org.rapidprom" name="XESLite" rev="6.7.333" />
-	<dependency org="org.rapidprom" name="Weka" rev="6.7.25" />
+	<dependency org="org.rapidprom" name="Weka" rev="6.9.28" />
 	<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.3" />
 	<dependency org="org.scijava" name="jep" rev="2.4.2" conf="*" />
         <dependency org="com.github.stephenc.high-scale-lib" name="high-scale-lib" rev="1.1.4" conf="*" />

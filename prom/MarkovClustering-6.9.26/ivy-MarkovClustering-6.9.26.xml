@@ -1,0 +1,27 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="MarkovClustering" 
+        revision="6.9.26" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/MarkovClustering-6.9.26"
+        rapidprom:desc="MarkovClustering"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL"
+        rapidprom:author="Niek Tax" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"    
+    />
+    <dependencies>
+	    <dependency org="org.rapidprom" name="ProM-Framework" rev="34109"   />
+		<dependency org="org.rapidprom" name="Widgets" rev="6.9.234"   />
+		<dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
+		<dependency org="org.reflections" name="reflections" rev="0.9.10" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="opencsv" rev="2.4-patched" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="mtj" rev="1.0.4" conf="*" />
+		<dependency org="gov.nist.math" name="jama" rev="1.0.3" conf="*" />
+	    <dependency org="de.mukis" name="de.mukis.jama" rev="1.1.2" conf="*"/>		
+		
+    </dependencies>
+</ivy-module>

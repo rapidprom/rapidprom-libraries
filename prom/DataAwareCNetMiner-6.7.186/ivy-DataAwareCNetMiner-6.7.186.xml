@@ -23,7 +23,7 @@
         <dependency org="org.rapidprom" name="DataDiscovery" rev="6.7.96"   />
         <dependency org="org.rapidprom" name="Log" rev="6.9.380"   />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.9.139"   />
-        <dependency org="org.rapidprom" name="Weka" rev="6.7.25"   />
+        <dependency org="org.rapidprom" name="Weka" rev="6.9.28"   />
 		<dependency org="org.rapidprom" name="XESLite" rev="6.7.333"   />
     </dependencies>
 </ivy-module>
