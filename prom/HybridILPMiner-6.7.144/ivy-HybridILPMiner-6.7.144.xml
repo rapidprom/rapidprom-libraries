@@ -25,7 +25,7 @@
 		<dependency org="org.rapidprom" name="DataAwareCNetMiner" rev="6.7.186" />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.9.126"   />
         <dependency org="org.rapidprom" name="ETConformance" rev="6.5.15"   />
-        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"   />
+        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.9.72"   />
         <dependency org="org.rapidprom" name="Log" rev="6.9.380"   />
         <dependency org="org.rapidprom" name="LPEngine" rev="6.7.80"   />
         <dependency org="org.rapidprom" name="Murata" rev="6.5.54"   />

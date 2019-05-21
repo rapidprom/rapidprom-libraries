@@ -18,6 +18,6 @@
         <dependency org="org.rapidprom" name="Animation" rev="6.5.50"   />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
         <dependency org="org.rapidprom" name="Log" rev="6.9.380"   />
-        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"   />
+        <dependency org="org.rapidprom" name="LogAbstractions" rev="6.9.72"   />
     </dependencies>
 </ivy-module>
