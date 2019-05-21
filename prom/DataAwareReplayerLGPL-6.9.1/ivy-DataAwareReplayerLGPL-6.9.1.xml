@@ -1,11 +1,11 @@
 <ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
     <info 
         organisation="org.rapidprom" 
-        module="DataAwareReplayer" 
-        revision="6.7.692" 
+        module="DataAwareReplayerLGPL" 
+        revision="6.9.1" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataAwareReplayer-6.7.692"
-        rapidprom:desc="Multi-perspective Process Conformance Checking based on Data Alignment"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataAwareReplayerLGPL-6.9.1"
+        rapidprom:desc="Multi-perspective Process Conformance Checking based on Data Alignment LGPL"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL" 
         rapidprom:author="Massimiliano de Leoni, Felix Mannhardt" 
@@ -15,11 +15,14 @@
     
     />
     <dependencies>
+	<dependency org="org.rapidprom" name="ProM-Framework" rev="34109"   />
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.109"   />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
         <dependency org="org.rapidprom" name="DataPetriNets" rev="6.9.465"   />
+		<dependency org="org.rapidprom" name="DataPetriNetsLGPL" rev="6.9.1"   />
         <dependency org="org.rapidprom" name="Log" rev="6.9.380"   />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.9.139"   />
+		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.9.179"   />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.9.126"   />
         <dependency org="org.rapidprom" name="Widgets" rev="6.9.234"   />
 	<dependency org="org.rapidprom" name="CNet" rev="6.7.161" />  

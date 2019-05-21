@@ -19,7 +19,7 @@
 	    <dependency org="org.rapidprom" name="BPMNConversions" rev="6.5.48"   />
 		<dependency org="org.rapidprom" name="CausalActivityGraphCreator" rev="6.5.36"   />
 		<dependency org="org.rapidprom" name="CNet" rev="6.7.161"   />
-		<dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.7.692"   />
+		<dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.9.722"   />
         <dependency org="org.rapidprom" name="DataDiscovery" rev="6.7.96"   />
         <dependency org="org.rapidprom" name="Log" rev="6.9.380"   />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.9.139"   />
